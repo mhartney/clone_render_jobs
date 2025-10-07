@@ -2,7 +2,6 @@
 
 """
 Created by: Max Hartney
-Date: 10/03/2025
 
 This tool runs a cloning command on an input dgraph, and then
 writes the new IDs information to a csv report. 
